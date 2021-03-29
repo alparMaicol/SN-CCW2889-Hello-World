@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>mensagem</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-29 14:11:50</sys_created_on>
+        <sys_data_policy display_value="Sets the mensagem field to mandatory">c3fc93bf2f8320101b4bdeb6f699b643</sys_data_policy>
+        <sys_id>0bfc93bf2f8320101b4bdeb6f699b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mensagem</sys_name>
+        <sys_package display_value="CCW2889 Hello World" source="x_531793_ccw2889_h">772c577f2f8320101b4bdeb6f699b660</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2889 Hello World">772c577f2f8320101b4bdeb6f699b660</sys_scope>
+        <sys_update_name>sys_data_policy_rule_0bfc93bf2f8320101b4bdeb6f699b646</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-29 14:11:50</sys_updated_on>
+        <table>x_531793_ccw2889_h_message</table>
+    </sys_data_policy_rule>
+</record_update>
